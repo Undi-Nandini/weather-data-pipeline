@@ -1,0 +1,5 @@
+WEATHER REPORT
+====================
+Average Temperature: 29.56
+Max Temperature: 35.55
+Min Temperature: 21.05
